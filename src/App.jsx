@@ -10,7 +10,7 @@ function App() {
       <header>
         <img
           src="./src/assets/img/netflix-img-removebg-preview.png"
-          alt="Netflix"
+          alt="Netflex"
         />
       </header>
       {Movies.map((elem) => {
