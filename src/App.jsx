@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <header>
-        <img src="./src/assets/img/netflex-img.png" alt="Netflex" />
+        <img src="./src/assets/img/netflex.png" alt="Netflex" />
       </header>
       {Movies.map((elem) => {
         // console.log(elem);
